@@ -1,0 +1,12 @@
+{
+    "malicious_ips": [
+        "185.143.223.0/24",
+        "103.232.218.0/24",
+        "91.234.196.0/24"
+    ],
+    "c2_servers": [
+        "example.com",
+        "malicious-domain.net"
+    ],
+    "virustotal_api_key": "YOUR_API_KEY_HERE"
+}
